@@ -1,5 +1,10 @@
 {
-  "dependencies": {
-    "puppeteer": "^1.2.0"
-  }
+	"dependencies": {
+		"cfonts": "^2.1.0",
+		"chalk": "^2.4.1",
+		"cli-table": "^0.3.1",
+		"indent-log": "^0.3.0",
+		"listr": "^0.13.0",
+		"puppeteer": "^1.4.0"
+	}
 }
