@@ -52,7 +52,6 @@ The `Scenario` function will get two arguments passed into it:
 
 - `page` - the page object from [puppeteer](https://github.com/GoogleChrome/puppeteer)
 - `client` - the client object also from puppeteer
-```
 
 An example scenario might be:
 
